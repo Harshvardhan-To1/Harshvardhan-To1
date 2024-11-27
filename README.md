@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harshvardhan Choudhary
 
-Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a keen interest in Machine Learning, AI, and Software Development. My work focuses on exploring innovative solutions to real-world problems through technology.
+Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a deep passion for Machine Learning, particularly in Generative AI. My work focuses on creating and optimizing AI systems that leverage generative models to tackle complex, real-world challenges innovatively and efficiently.
 
 ---
 
@@ -25,14 +25,14 @@ Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a kee
 
 ## 🔧 Skills and Tools
 - **Programming**: Python, TensorFlow, PyTorch, Django
-- **ML Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers
+- **ML Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers, Diffusers
 - **Data Handling**: Pandas, NumPy, OpenCV
 - **Deployment**: Django, Flask, Accelerate (for distributed ML training)
 
 ---
 
 ## 🌱 Currently Learning
-- Reinforcement Learning and advanced NLP techniques.
+- Reinforcement Learning and advanced Text-to-Image models such as Stable Diffusion.
 - Optimizing model deployment for resource-constrained environments.
 
 ---
