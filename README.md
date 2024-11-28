@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a dee
 
 ---
 
-## 🔍 About Me
+## About Me
 - **Current Education**: B.Tech. at IIT Indore  
-- **Interests**: Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Computer Vision, Competitive Programming, and Backend Development.  
+- **Interests**: Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and Backend Development.  
 - **Current Focus**: Enhancing my expertise in AI by building scalable ML systems and contributing to impactful projects.
 
 ---
 
-## 🧠 Machine Learning Projects
+## Machine Learning Projects
 
 ### [CustomDistillation](https://github.com/Harshvardhan-To1/CustomDistillation)
 - **Objective**: Developed a two-step method for LLM (Large Language Model) distillation optimized for low VRAM environments.
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a dee
 
 ---
 
-## 🔧 Skills and Tools
+## Skills and Tools
 - **Programming**: Python, TensorFlow, PyTorch, C++, Django  
 - **ML Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers, Diffusers  
 - **Data Handling**: Pandas, NumPy, OpenCV  
@@ -38,13 +38,13 @@ Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a dee
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Reinforcement Learning and advanced Text-to-Image models such as Stable Diffusion.  
 - Optimizing model deployment for resource-constrained environments.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 - **LinkedIn**: [Harshvardhan Choudhary](https://www.linkedin.com/in/harshvardhan-choudhary/)  
 - **GitHub**: You're already here! 🎉 Feel free to explore my repositories.
 
