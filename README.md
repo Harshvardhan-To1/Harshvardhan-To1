@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a dee
 ---
 
 ## Let's Connect
-- **LinkedIn**: [Harshvardhan Choudhary](https://www.linkedin.com/in/harshvardhan-choudhary/)  
+- **LinkedIn**: [Harshvardhan Choudhary](https://www.linkedin.com/in/harshvardhan-choudhary-7857a1287/)  
 - **GitHub**: You're already here! 🎉 Feel free to explore my repositories.
 
 ---
